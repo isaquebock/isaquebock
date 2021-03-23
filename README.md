@@ -21,6 +21,6 @@ Trabalho desde os meus 16 anos, já fui auxiliar de impressão, auxiliar de esto
 <br>
 
 <h2>📱 Social Medias</h2>
-<h3>📑 <a href="linkedin.com/isaquebock">LinkedIn</a></h3>
-<h3>🐤 <a href="twitter.com/isaquebock">Twitter</a></h3>
+<h3>📑 <a href="https://www.linkedin.com/isaquebock">LinkedIn</a></h3>
+<h3>🐤 <a href="https://www.twitter.com/isaquebock">Twitter</a></h3>
 <h3>🔨 Portfolio (In Progress)</h3>
