@@ -6,7 +6,7 @@ Olá, meu nome é Isaque Böck, sou gaúcho, tenho 20 anos, adoro escrever códi
 
 <h2>📄 Informações sobre mim</h2>
 • Reside em: Porto Alegre<br>
-• Stack: HTML, CSS, Bootstrap, Tailwind Git, Javascript, Visual Basic (VBA).<br>
+• Stack: HTML, CSS, Bootstrap, TailwindCSS, Git, Javascript, Visual Basic (VBA).<br>
 • Formação: Engenharia da Computação<br>
 • Faculdade: FTEC - Faculdade de Tecnologia (Porto Alegre)
 
