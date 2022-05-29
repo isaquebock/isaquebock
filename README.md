@@ -8,8 +8,8 @@ class AboutMe extends Developer {
 class Skills extends Developer {
   languages  = ['Javascript', 'HTML', 'CSS', 'SASS', 'NodeJS', 'Python'];
   frameworks_and_libraries = ['VueJS', 'Bootstrap', 'Tailwind', 'React', 'Angular', 'Jquery'];
-  workflowAutomation = ['Gulp', 'Webpack'];
-  templateEngine = ['Liquid'];
-  versioningSystem = ['Git'];
+  workflow_automation = ['Gulp', 'Webpack'];
+  template_engine = ['Liquid'];
+  versioning_system = ['Git'];
 }
 ```
