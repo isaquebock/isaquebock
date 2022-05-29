@@ -1,16 +1,15 @@
-### Hi there 👋
+```javascript
+import Developer from 'Isaque';
 
-<!--
-**isaquebock/isaquebock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+class AboutMe extends Developer {
+  expertise = 'Front-End Web Development';
+}
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+class Skills extends Developer {
+  languages  = ['Javascript', 'HTML', 'CSS', 'SASS', 'NodeJS', 'Python'];
+  frameworks_and_libraries = ['VueJS', 'Bootstrap', 'Tailwind', 'React', 'Angular', 'Jquery'];
+  workflowAutomation = ['Gulp', 'Webpack'];
+  templateEngine = ['Liquid'];
+  versioningSystem = ['Git'];
+}
+```
