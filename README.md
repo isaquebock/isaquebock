@@ -6,9 +6,9 @@ class AboutMe extends Developer {
 }
 
 class Skills extends Developer {
-  languages  = ['Javascript', 'HTML', 'CSS', 'SASS', 'NodeJS', 'Python'];
-  frameworks_and_libraries = ['VueJS', 'Bootstrap', 'Tailwind', 'React', 'Angular', 'Jquery'];
-  workflow_automation = ['Gulp', 'Webpack'];
+  languages  = ['Javascript', 'HTML', 'CSS', 'NodeJS', 'Python'];
+  frameworks_and_libraries = ['Tailwind', 'Bootstrap', 'Styled-Components', 'React', 'Angular', 'Jquery'];
+  tools = ['Gulp', 'Webpack', 'SCSS'];
   template_engine = ['Liquid'];
   versioning_system = ['Git'];
 }
