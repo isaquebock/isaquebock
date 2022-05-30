@@ -6,7 +6,7 @@ class AboutMe extends Developer {
 }
 
 class Skills extends Developer {
-  languages  = ['Javascript', 'HTML', 'CSS', 'NodeJS', 'Python'];
+  languages  = ['Javascript', 'HTML', 'CSS', 'NodeJS'];
   frameworks_and_libraries = ['Tailwind', 'Bootstrap', 'Styled-Components', 'React', 'Angular', 'Jquery'];
   tools = ['Gulp', 'Webpack', 'SCSS'];
   template_engine = ['Liquid'];
