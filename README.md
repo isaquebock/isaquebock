@@ -17,7 +17,7 @@
   *Quem eu sou*
   Engenheiro de Software focado na criação e implementação de soluções completas, atuando e apoiando todo o ciclo de desenvolvimento. Participante ativo de comunidades de tecnologia e comprometido em impulsionar e apoiar aqueles que estão iniciando na programação.
 
-  *O que estou fazendo*br>
+  *O que estou fazendo*<br>
   1. Desenvolvedor de software na Accountfy
   2. Fundador e mantenedor da <a href="https://boostingdevs.com">Boosting Devs</a>
   3. Colaborador na GUFERS (comunidade de programadores front-end do RS)
