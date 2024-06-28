@@ -14,7 +14,7 @@
 
   <strong>*pt-br*</strong><br>
 
-  *Quem eu sou*<br>
+  *Quem eu sou*<br><br>
   Engenheiro de Software focado na criação e implementação de soluções completas, atuando e apoiando todo o ciclo de desenvolvimento. Participante ativo de comunidades de tecnologia e comprometido em impulsionar e apoiar aqueles que estão iniciando na programação.
 
   *O que estou fazendo*<br>
@@ -25,7 +25,7 @@
   
   <strong>*en*</strong><br>
   
-  *Who I'am*<br>
+  *Who I'am*<br><br>
   Software engineer focused on creating and implementing complete solutions, engaging in and supporting the entire development cycle. Active participant in technology communities, committed to promoting and supporting those starting out in programming.
 
   *What I'm doing*<br>
