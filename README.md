@@ -10,6 +10,10 @@
   </a>
 </p>
 
+<p align="left">
+  Software engineer focused on creating and implementing complete solutions, engaging in and supporting the entire development cycle. Active participant in technology communities, committed to promoting and supporting those starting out in programming.
+</p>
+
 
 ```javascript
 import Developer from 'Isaque';
