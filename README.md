@@ -21,6 +21,23 @@
 </p>
 
 
+<p align="left">
+
+  *O que estou fazendo*<br>
+  1. Desenvolvedor de software na Accountfy
+  2. Fundador e mantenedor da <a href="https://boostingdevs.com">Boosting Devs</a>
+  3. Colaborador na GUFERS (comunidade de programadores front-end do RS)
+  
+  *What I'm doing*<br>
+  
+  1. Software developer at Accountfy
+  2. Founder and maintainer of <a href="https://boostingdevs.com">Boosting Devs</a>
+  3. Contributor at GUFERS (RS front-end developers community)
+  
+</p>
+
+
+
 ```javascript
 import Developer from 'Isaque';
 
