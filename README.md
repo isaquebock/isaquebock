@@ -11,11 +11,13 @@
 </p>
 
 <p align="left">
-  *en*
+  
+  *en*<br>
   Software engineer focused on creating and implementing complete solutions, engaging in and supporting the entire development cycle. Active participant in technology communities, committed to promoting and supporting those starting out in programming.
 
-  *pt-br*
+  *pt-br*<br>
   Engenheiro de Software focado na criação e implementação de soluções completas, atuando e apoiando todo o ciclo de desenvolvimento. Participante ativo de comunidades de tecnologia e comprometido em impulsionar e apoiar aqueles que estão iniciando na programação.
+  
 </p>
 
 
