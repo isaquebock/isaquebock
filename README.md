@@ -12,7 +12,9 @@
 
 <p align="left">
 
-  <strong>*pt-br*</strong><<br>
+  <strong>*pt-br*</strong><br>
+
+  *Quem eu sou*
   Engenheiro de Software focado na criação e implementação de soluções completas, atuando e apoiando todo o ciclo de desenvolvimento. Participante ativo de comunidades de tecnologia e comprometido em impulsionar e apoiar aqueles que estão iniciando na programação.
 
   *O que estou fazendo*br>
@@ -22,33 +24,22 @@
 
   
   <strong>*en*</strong><br>
+  
+  *Who I'am*
   Software engineer focused on creating and implementing complete solutions, engaging in and supporting the entire development cycle. Active participant in technology communities, committed to promoting and supporting those starting out in programming.
 
   *What I'm doing*<br>
   1. Software developer at Accountfy
   2. Founder and maintainer of <a href="https://boostingdevs.com">Boosting Devs</a>
-  3. Contributor at GUFERS (RS front-end developers community)
+  3. Contributor at GUFERS (brazilian front-end developers community)
 </p>
-
-
-<p align="left">
-
-
-</p>
-
 
 
 ```javascript
-import Developer from 'Isaque';
-
-class AboutMe extends Developer {
-  expertise = 'Software Engineer';
-}
-
-class Skills extends Developer {
+class Skills {
   languages  = ['Javascript', 'HTML', 'CSS', 'NodeJS'];
-  frameworks_and_libraries = ['Tailwind', 'Bootstrap', 'Styled-Components', 'React', 'Angular', 'Jquery'];
-  tools = ['Gulp', 'Webpack', 'SCSS', 'Jasmine', 'Jest'];
+  frameworks_and_libraries = ['Tailwind', 'Bootstrap', 'Styled-Components', 'React', 'Angular', 'NestJS'];
+  tools = ['Gulp', 'Webpack', 'SCSS', 'Jasmine', 'Jest', 'Docker', 'Grafana'];
   versioning_system = ['Git'];
 }
 ```
