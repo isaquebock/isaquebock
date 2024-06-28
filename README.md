@@ -1,7 +1,6 @@
 ### Hi there 🚀
 
 <p align="left">
-  <!-- Twitter -->
   <a href="https://twitter.com/isaquebock" target="_blank">
     <img src="https://img.shields.io/twitter/follow/isaquebock?style=social" alt="Twitter de Isaque">
   </a><br>
@@ -34,12 +33,11 @@
   3. Contributor at GUFERS (brazilian front-end developers community)
 </p>
 
+### Links
 
-```javascript
-class Skills {
-  languages  = ['Javascript', 'HTML', 'CSS', 'NodeJS'];
-  frameworks_and_libraries = ['Tailwind', 'Bootstrap', 'Styled-Components', 'React', 'Angular', 'NestJS'];
-  tools = ['Gulp', 'Webpack', 'SCSS', 'Jasmine', 'Jest', 'Docker', 'Grafana'];
-  versioning_system = ['Git'];
-}
-```
+<p align="left">
+  
+  [Twitch](https://twitch.tv/isaquebock)
+  [Medium](https://isaquebock.medium.com/)
+  
+</p>
