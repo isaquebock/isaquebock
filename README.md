@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/twitter/follow/isaquebock?style=social" alt="Twitter de Isaque">
   </a>
 
-  &nbsp;
+ㅤㅤ
   <a href="https://www.linkedin.com/in/isaquebock/" target="_blank">
     <img src="https://img.shields.io/twitter/url?label=LinkedIn&logo=linkedin&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fisaquebock%2F">
   </a>
