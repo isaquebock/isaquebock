@@ -17,7 +17,7 @@
   Engenheiro de Software focado na criação e implementação de soluções completas, atuando e apoiando todo o ciclo de desenvolvimento. Participante ativo de comunidades de tecnologia e comprometido em impulsionar e apoiar aqueles que estão iniciando na programação.
 
   *O que estou fazendo*<br>
-  1. Desenvolvedor de software na Accountfy
+  1. Desenvolvedor de software na Enjoei
   2. Fundador e mantenedor da <a href="https://boostingdevs.com">Boosting Devs</a>
   3. Colaborador na GUFERS (comunidade de programadores front-end do RS)
 
@@ -28,7 +28,7 @@
   Software engineer focused on creating and implementing complete solutions, engaging in and supporting the entire development cycle. Active participant in technology communities, committed to promoting and supporting those starting out in programming.
 
   *What I'm doing*<br>
-  1. Software developer at Accountfy
+  1. Software developer at Enjoei
   2. Founder and maintainer of <a href="https://boostingdevs.com">Boosting Devs</a>
   3. Contributor at GUFERS (brazilian front-end developers community)
 </p>
