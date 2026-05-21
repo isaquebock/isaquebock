@@ -1,15 +1,15 @@
-# I'm Isaque Böck, welcome to my profile.
+### Welcome to my profile.
 
 Software Engineer specializing in modern web platforms, backend architecture, and AI-driven applications. Experienced with JavaScript, TypeScript, Node.js, Go, and Rust, with a strong focus on performance, scalability, and developer experience.
 
-### About me
+#### About me
 
 - 💻 Software Engineer at @aziontech
 - 🚀 Founder @boostingdevs
 - 🛠️ Building personal projects and exploring new technologies
 - 📚 Continuous learner and problem solver
 
-### Tech stack
+#### Tech stack
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -34,7 +34,7 @@ Software Engineer specializing in modern web platforms, backend architecture, an
 ![CI/CD](https://img.shields.io/badge/CI/CD-222222?style=for-the-badge&logo=githubactions&logoColor=white)
 
 
-### Connect with me
+#### Connect with me
 
 - Website: https://isaquebock.com
 - Linkedin: https://linkedin.com/in/isaquebock
